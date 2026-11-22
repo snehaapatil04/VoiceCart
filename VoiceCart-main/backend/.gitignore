@@ -1,1 +1,24 @@
+
+# Maven
 /target/
+backend/target/
+backend/.maven/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Environment and secrets
+.env
+.env.*
+application.properties
+
+# IDE files
+.idea/
+.vscode/
+.settings/
+.project
+.classpath
+
+# Java compiled files
+*.class
